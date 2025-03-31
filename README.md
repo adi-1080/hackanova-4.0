@@ -3,6 +3,6 @@
 Deployed Model: [🚀 Live Demo](https://ml-mavericks-hackanova.streamlit.app/)
 
 Team ML Mavericks: <br>
-Aakarshit Saxena
-Aatmaj Rakshe
-Aditya Gupta
+Aakarshit Saxena <br>
+Aatmaj Rakshe <br>
+Aditya Gupta <br>
