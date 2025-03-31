@@ -6,3 +6,10 @@ torchvision
 moviepy
 tensorflow
 librosa
+matplotlib
+seaborn
+scikit-learn
+fastapi
+uvicorn
+pydantic
+python-multipart
